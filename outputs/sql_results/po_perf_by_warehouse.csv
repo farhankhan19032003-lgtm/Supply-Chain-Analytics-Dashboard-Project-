@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,region,received_pos,on_time_pct,avg_days_vs_promise,qty_fill_pct
+WH01,Gurugram DC,North,1979,71.6,1.81,98.7
+WH02,Jaipur DC,North,2409,72.8,1.81,98.7
+WH03,Lucknow DC,North,2553,73.2,1.62,99.0
+WH04,Bhiwandi DC,West,1935,71.0,1.83,98.3
+WH05,Pune DC,West,2723,72.3,1.71,98.8
+WH06,Ahmedabad DC,West,2937,70.8,1.74,98.5
+WH07,Bengaluru DC,South,3051,73.5,1.66,98.7
+WH08,Chennai DC,South,3534,71.1,1.69,98.6
+WH09,Hyderabad DC,South,2957,72.6,1.73,98.5
+WH10,Kolkata DC,East,3193,70.4,1.81,98.5
+WH11,Guwahati DC,East,1736,62.3,2.32,98.9
+WH12,Nagpur DC,Central,2330,72.9,1.65,98.5

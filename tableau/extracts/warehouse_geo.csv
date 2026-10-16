@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,city,state,region,latitude,longitude,capacity_units
+WH01,Gurugram DC,Gurugram,Haryana,North,28.4595,77.0266,489000
+WH02,Jaipur DC,Jaipur,Rajasthan,North,26.9124,75.7873,156000
+WH03,Lucknow DC,Lucknow,Uttar Pradesh,North,26.8467,80.9462,159000
+WH04,Bhiwandi DC,Bhiwandi,Maharashtra,West,19.2813,73.0483,711000
+WH05,Pune DC,Pune,Maharashtra,West,18.5204,73.8567,226000
+WH06,Ahmedabad DC,Ahmedabad,Gujarat,West,23.0225,72.5714,195000
+WH07,Bengaluru DC,Bengaluru,Karnataka,South,12.9716,77.5946,292000
+WH08,Chennai DC,Chennai,Tamil Nadu,South,13.0827,80.2707,143000
+WH09,Hyderabad DC,Hyderabad,Telangana,South,17.385,78.4867,247000
+WH10,Kolkata DC,Kolkata,West Bengal,East,22.5726,88.3639,213000
+WH11,Guwahati DC,Guwahati,Assam,East,26.1445,91.7362,121000
+WH12,Nagpur DC,Nagpur,Maharashtra,Central,21.1458,79.0882,140000

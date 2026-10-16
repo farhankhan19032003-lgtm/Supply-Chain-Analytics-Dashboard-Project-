@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,region,total_stock_value_inr,excess_value_inr,excess_pct_of_stock,annual_carrying_cost_on_excess_inr,above_target_cover_value_inr,above_target_pct_of_stock,annual_carrying_cost_above_target_inr,obsolescence_risk_skus,obsolescence_risk_value_inr,expiry_risk_skus,expiry_risk_value_inr
+WH04,Bhiwandi DC,West,78119785.0,6589930.0,8.4,1449785.0,32089121.0,41.1,7059607.0,0,0.0,5,4510546.0
+WH01,Gurugram DC,North,53413145.0,3843427.0,7.2,845554.0,21092465.0,39.5,4640342.0,0,0.0,1,115200.0
+WH12,Nagpur DC,Central,10849035.0,800147.0,7.4,176032.0,1814046.0,16.7,399090.0,0,0.0,3,339648.0
+WH02,Jaipur DC,North,12386634.0,622305.0,5.0,136907.0,1730856.0,14.0,380788.0,2,412538.0,6,889239.0
+WH03,Lucknow DC,North,12746845.0,616716.0,4.8,135678.0,1753603.0,13.8,385793.0,2,264198.0,2,245964.0
+WH06,Ahmedabad DC,West,14011100.0,270638.0,1.9,59540.0,1428177.0,10.2,314199.0,0,0.0,0,0.0
+WH11,Guwahati DC,East,7118011.0,230462.0,3.2,50702.0,1089999.0,15.3,239800.0,4,167259.0,4,153764.0
+WH05,Pune DC,West,17279062.0,110817.0,0.6,24380.0,2488211.0,14.4,547406.0,0,0.0,1,127185.0
+WH09,Hyderabad DC,South,23416807.0,79365.0,0.3,17460.0,3251831.0,13.9,715403.0,0,0.0,0,0.0
+WH07,Bengaluru DC,South,20767489.0,31624.0,0.2,6957.0,2144763.0,10.3,471848.0,0,0.0,0,0.0
+WH08,Chennai DC,South,8162258.0,23776.0,0.3,5231.0,241115.0,3.0,53045.0,0,0.0,0,0.0
+WH10,Kolkata DC,East,17145860.0,15721.0,0.1,3459.0,1591298.0,9.3,350086.0,0,0.0,0,0.0

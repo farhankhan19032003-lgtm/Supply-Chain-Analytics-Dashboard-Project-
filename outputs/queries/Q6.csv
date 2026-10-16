@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,region,stock_value_inr,pct_of_network_stock,pct_of_network_demand
+WH04,Bhiwandi DC,West,78119785.0,28.4,14.7
+WH01,Gurugram DC,North,53413145.0,19.4,10.4
+WH09,Hyderabad DC,South,23416807.0,8.5,9.3
+WH07,Bengaluru DC,South,20767489.0,7.5,11.3
+WH05,Pune DC,West,17279062.0,6.3,7.6
+WH10,Kolkata DC,East,17145860.0,6.2,9.1
+WH06,Ahmedabad DC,West,14011100.0,5.1,8.4
+WH03,Lucknow DC,North,12746845.0,4.6,5.8
+WH02,Jaipur DC,North,12386634.0,4.5,4.9
+WH12,Nagpur DC,Central,10849035.0,3.9,4.9
+WH08,Chennai DC,South,8162258.0,3.0,9.7
+WH11,Guwahati DC,East,7118011.0,2.6,4.0

@@ -1,0 +1,6 @@
+region_extract,rows_staged_non_blank,closing_stock_repaired,lost_units_filled,rows_clean,duplicates_removed
+Central,6240,761,318,6240,0
+East,12480,8,0,12480,0
+North,18795,0,0,18720,75
+South,18720,0,1691,18720,0
+West,18720,0,0,18720,0

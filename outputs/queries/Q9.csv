@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,region,reorder_policy_ratio,fill_rate_pct
+WH08,Chennai DC,South,0.71,89.14
+WH11,Guwahati DC,East,0.74,87.86
+WH10,Kolkata DC,East,1.04,96.76
+WH03,Lucknow DC,North,1.11,98.12
+WH06,Ahmedabad DC,West,1.11,97.9
+WH02,Jaipur DC,North,1.12,98.35
+WH07,Bengaluru DC,South,1.14,98.24
+WH09,Hyderabad DC,South,1.14,98.04
+WH12,Nagpur DC,Central,1.17,98.46
+WH05,Pune DC,West,1.23,98.93
+WH01,Gurugram DC,North,1.97,99.94
+WH04,Bhiwandi DC,West,2.07,99.97

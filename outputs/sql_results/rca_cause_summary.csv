@@ -1,0 +1,6 @@
+primary_cause,stockout_events,lost_units,lost_revenue_inr,lost_margin_inr,pct_of_lost_revenue
+1 Planning policy gap (reorder point too low),3171,638164,125676139.0,25035076.0,31.7
+2 Supplier delay,2912,802969,153078514.0,30183914.0,38.6
+3 Supplier short-shipment,221,43627,8379544.0,1665856.0,2.1
+4 Unforecast demand spike,769,153742,49592869.0,10426046.0,12.5
+5 Demand variability / thin safety stock,2105,292167,59341318.0,11911789.0,15.0

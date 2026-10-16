@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<datasource formatted-name='SupplyChain_MySQL' inline='true' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection class='mysql' dbname='supply_chain_analytics' port='4306' server='127.0.0.1' username='tableau' />
+</datasource>

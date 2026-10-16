@@ -1,0 +1,237 @@
+sku_id,sku_name,category,from_warehouse_id,from_warehouse,from_region,to_warehouse_id,to_warehouse,to_region,receiver_status,transfer_units,same_region,stock_value_moved_inr,est_freight_inr,margin_protected_inr,est_net_benefit_inr
+SKU080,TWS Earbuds,Electronics Accessories,WH01,Gurugram DC,North,WH06,Ahmedabad DC,West,STOCKOUT,995,0,2226810.0,5970.0,705455.0,699485.0
+SKU080,TWS Earbuds,Electronics Accessories,WH01,Gurugram DC,North,WH08,Chennai DC,South,STOCKOUT,542,0,1212996.0,3252.0,384278.0,381026.0
+SKU087,SD Card 64GB,Electronics Accessories,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,LOW,526,0,920500.0,3156.0,226180.0,223024.0
+SKU087,SD Card 64GB,Electronics Accessories,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,464,0,812000.0,2784.0,199520.0,196736.0
+SKU079,Wired Earphones,Electronics Accessories,WH01,Gurugram DC,North,WH08,Chennai DC,South,STOCKOUT,653,0,724830.0,3918.0,197206.0,193288.0
+SKU087,SD Card 64GB,Electronics Accessories,WH04,Bhiwandi DC,West,WH11,Guwahati DC,East,STOCKOUT,273,0,477750.0,1638.0,117390.0,115752.0
+SKU079,Wired Earphones,Electronics Accessories,WH01,Gurugram DC,North,WH11,Guwahati DC,East,STOCKOUT,375,0,416250.0,2250.0,113250.0,111000.0
+SKU111,Shipping Labels 1000,Packaging & Supplies,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,STOCKOUT,726,0,447942.0,4356.0,90024.0,85668.0
+SKU060,Mouthwash 250ml,Personal Care,WH12,Nagpur DC,Central,WH06,Ahmedabad DC,West,LOW,783,0,294408.0,4698.0,90045.0,85347.0
+SKU082,Phone Case,Electronics Accessories,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,CRITICAL,449,0,298585.0,2694.0,76330.0,73636.0
+SKU086,AA Batteries 10pk,Electronics Accessories,WH01,Gurugram DC,North,WH02,Jaipur DC,North,LOW,177,1,236295.0,443.0,71685.0,71243.0
+SKU089,USB Keyboard,Electronics Accessories,WH01,Gurugram DC,North,WH07,Bengaluru DC,South,STOCKOUT,116,0,260884.0,696.0,65308.0,64612.0
+SKU089,USB Keyboard,Electronics Accessories,WH01,Gurugram DC,North,WH12,Nagpur DC,Central,LOW,115,0,258635.0,690.0,64745.0,64055.0
+SKU034,Cream Biscuits 120g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,STOCKOUT,6616,1,403576.0,16540.0,79392.0,62852.0
+SKU088,Wireless Mouse,Electronics Accessories,WH01,Gurugram DC,North,WH09,Hyderabad DC,South,LOW,504,0,216216.0,3024.0,52920.0,49896.0
+SKU082,Phone Case,Electronics Accessories,WH04,Bhiwandi DC,West,WH05,Pune DC,West,CRITICAL,291,1,193515.0,728.0,49470.0,48743.0
+SKU101,Vitamin C 30s,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH08,Chennai DC,South,STOCKOUT,818,0,143968.0,4908.0,49898.0,44990.0
+SKU078,Power Bank 10000mAh,Electronics Accessories,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,STOCKOUT,417,0,149703.0,2502.0,46704.0,44202.0
+SKU081,Bluetooth Speaker,Electronics Accessories,WH04,Bhiwandi DC,West,WH05,Pune DC,West,LOW,620,1,140740.0,1550.0,40920.0,39370.0
+SKU078,Power Bank 10000mAh,Electronics Accessories,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,STOCKOUT,371,0,133189.0,2226.0,41552.0,39326.0
+SKU070,Scrub Pad 3pk,Home Care,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,LOW,1477,0,178717.0,8862.0,47264.0,38402.0
+SKU081,Bluetooth Speaker,Electronics Accessories,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,LOW,637,0,144599.0,3822.0,42042.0,38220.0
+SKU078,Power Bank 10000mAh,Electronics Accessories,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,STOCKOUT,340,1,122060.0,850.0,38080.0,37230.0
+SKU118,Thermal Paper Roll 20pk,Packaging & Supplies,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,STOCKOUT,1192,0,215752.0,7152.0,44104.0,36952.0
+SKU111,Shipping Labels 1000,Packaging & Supplies,WH04,Bhiwandi DC,West,WH09,Hyderabad DC,South,LOW,311,0,191887.0,1866.0,38564.0,36698.0
+SKU118,Thermal Paper Roll 20pk,Packaging & Supplies,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,STOCKOUT,1109,0,200729.0,6654.0,41033.0,34379.0
+SKU111,Shipping Labels 1000,Packaging & Supplies,WH04,Bhiwandi DC,West,WH03,Lucknow DC,North,LOW,280,0,172760.0,1680.0,34720.0,33040.0
+SKU040,Wafers 75g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,CRITICAL,1815,1,163350.0,4538.0,34485.0,29948.0
+SKU118,Thermal Paper Roll 20pk,Packaging & Supplies,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,CRITICAL,958,0,173398.0,5748.0,35446.0,29698.0
+SKU081,Bluetooth Speaker,Electronics Accessories,WH04,Bhiwandi DC,West,WH09,Hyderabad DC,South,STOCKOUT,483,0,109641.0,2898.0,31878.0,28980.0
+SKU081,Bluetooth Speaker,Electronics Accessories,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,CRITICAL,482,0,109414.0,2892.0,31812.0,28920.0
+SKU082,Phone Case,Electronics Accessories,WH04,Bhiwandi DC,West,WH03,Lucknow DC,North,STOCKOUT,176,0,117040.0,1056.0,29920.0,28864.0
+SKU037,Popcorn 60g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,LOW,1396,0,191252.0,8376.0,36296.0,27920.0
+SKU094,Cough Syrup 100ml,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH09,Hyderabad DC,South,LOW,449,0,85310.0,2694.0,28736.0,26042.0
+SKU105,Face Masks 50pk,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,STOCKOUT,1095,0,100740.0,6570.0,31755.0,25185.0
+SKU037,Popcorn 60g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,LOW,1224,0,167688.0,7344.0,31824.0,24480.0
+SKU018,Mango Drink 1L,Beverages,WH02,Jaipur DC,North,WH08,Chennai DC,South,LOW,2372,0,239572.0,14232.0,37952.0,23720.0
+SKU052,Deodorant 150ml,Personal Care,WH01,Gurugram DC,North,WH09,Hyderabad DC,South,LOW,576,0,76608.0,3456.0,26496.0,23040.0
+SKU070,Scrub Pad 3pk,Home Care,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,826,0,99946.0,4956.0,26432.0,21476.0
+SKU088,Wireless Mouse,Electronics Accessories,WH01,Gurugram DC,North,WH08,Chennai DC,South,LOW,216,0,92664.0,1296.0,22680.0,21384.0
+SKU088,Wireless Mouse,Electronics Accessories,WH01,Gurugram DC,North,WH12,Nagpur DC,Central,STOCKOUT,216,0,92664.0,1296.0,22680.0,21384.0
+SKU107,Stretch Film 500mm,Packaging & Supplies,WH01,Gurugram DC,North,WH06,Ahmedabad DC,West,STOCKOUT,403,0,130572.0,2418.0,23777.0,21359.0
+SKU052,Deodorant 150ml,Personal Care,WH01,Gurugram DC,North,WH04,Bhiwandi DC,West,CRITICAL,523,0,69559.0,3138.0,24058.0,20920.0
+SKU105,Face Masks 50pk,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,LOW,901,0,82892.0,5406.0,26129.0,20723.0
+SKU004,Moong Dal 1kg,Packaged Staples,WH01,Gurugram DC,North,WH03,Lucknow DC,North,LOW,2428,1,194240.0,6070.0,26708.0,20638.0
+SKU101,Vitamin C 30s,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH05,Pune DC,West,LOW,369,0,64944.0,2214.0,22509.0,20295.0
+SKU094,Cough Syrup 100ml,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH10,Kolkata DC,East,STOCKOUT,347,0,65930.0,2082.0,22208.0,20126.0
+SKU094,Cough Syrup 100ml,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH08,Chennai DC,South,LOW,339,0,64410.0,2034.0,21696.0,19662.0
+SKU050,Body Lotion 400ml,Personal Care,WH01,Gurugram DC,North,WH11,Guwahati DC,East,LOW,622,0,85836.0,3732.0,23014.0,19282.0
+SKU107,Stretch Film 500mm,Packaging & Supplies,WH01,Gurugram DC,North,WH08,Chennai DC,South,STOCKOUT,358,0,115992.0,2148.0,21122.0,18974.0
+SKU063,Floor Cleaner 1L,Home Care,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,STOCKOUT,1990,1,87560.0,4975.0,23880.0,18905.0
+SKU103,Zinc Tablets 20s,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,CRITICAL,415,1,70135.0,1038.0,19505.0,18468.0
+SKU085,Extension Board 4-socket,Electronics Accessories,WH01,Gurugram DC,North,WH08,Chennai DC,South,CRITICAL,206,0,69216.0,1236.0,19570.0,18334.0
+SKU103,Zinc Tablets 20s,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,STOCKOUT,438,0,74022.0,2628.0,20586.0,17958.0
+SKU050,Body Lotion 400ml,Personal Care,WH01,Gurugram DC,North,WH02,Jaipur DC,North,LOW,518,1,71484.0,1295.0,19166.0,17871.0
+SKU105,Face Masks 50pk,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,STOCKOUT,775,0,71300.0,4650.0,22475.0,17825.0
+SKU040,Wafers 75g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,LOW,1354,0,121860.0,8124.0,25726.0,17602.0
+SKU040,Wafers 75g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,1329,0,119610.0,7974.0,25251.0,17277.0
+SKU034,Cream Biscuits 120g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,LOW,2854,0,174094.0,17124.0,34248.0,17124.0
+SKU118,Thermal Paper Roll 20pk,Packaging & Supplies,WH04,Bhiwandi DC,West,WH09,Hyderabad DC,South,LOW,515,0,93215.0,3090.0,19055.0,15965.0
+SKU023,Coconut Water 200ml,Beverages,WH01,Gurugram DC,North,WH08,Chennai DC,South,CRITICAL,3949,0,232991.0,23694.0,39490.0,15796.0
+SKU078,Power Bank 10000mAh,Electronics Accessories,WH04,Bhiwandi DC,West,WH11,Guwahati DC,East,STOCKOUT,143,0,51337.0,858.0,16016.0,15158.0
+SKU037,Popcorn 60g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH09,Hyderabad DC,South,LOW,746,0,102202.0,4476.0,19396.0,14920.0
+SKU095,Multivitamin 30s,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,281,0,50018.0,1686.0,16579.0,14893.0
+SKU088,Wireless Mouse,Electronics Accessories,WH01,Gurugram DC,North,WH11,Guwahati DC,East,LOW,150,0,64350.0,900.0,15750.0,14850.0
+SKU099,Digital Thermometer,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH08,Chennai DC,South,LOW,812,0,71456.0,4872.0,19488.0,14616.0
+SKU102,Eye Drops 10ml,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH05,Pune DC,West,LOW,1011,0,72792.0,6066.0,20220.0,14154.0
+SKU052,Deodorant 150ml,Personal Care,WH01,Gurugram DC,North,WH07,Bengaluru DC,South,CRITICAL,349,0,46417.0,2094.0,16054.0,13960.0
+SKU102,Eye Drops 10ml,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH08,Chennai DC,South,STOCKOUT,987,0,71064.0,5922.0,19740.0,13818.0
+SKU085,Extension Board 4-socket,Electronics Accessories,WH01,Gurugram DC,North,WH07,Bengaluru DC,South,STOCKOUT,154,0,51744.0,924.0,14630.0,13706.0
+SKU085,Extension Board 4-socket,Electronics Accessories,WH01,Gurugram DC,North,WH10,Kolkata DC,East,CRITICAL,153,0,51408.0,918.0,14535.0,13617.0
+SKU004,Moong Dal 1kg,Packaged Staples,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,STOCKOUT,2685,0,214800.0,16110.0,29535.0,13425.0
+SKU091,Paracetamol 500mg 15s,OTC Pharma & Wellness,WH09,Hyderabad DC,South,WH10,Kolkata DC,East,LOW,527,0,59551.0,3162.0,16337.0,13175.0
+SKU085,Extension Board 4-socket,Electronics Accessories,WH01,Gurugram DC,North,WH06,Ahmedabad DC,West,CRITICAL,138,0,46368.0,828.0,13110.0,12282.0
+SKU052,Deodorant 150ml,Personal Care,WH01,Gurugram DC,North,WH06,Ahmedabad DC,West,LOW,304,0,40432.0,1824.0,13984.0,12160.0
+SKU066,Fabric Softener 1L,Home Care,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,1458,0,74358.0,8748.0,20412.0,11664.0
+SKU081,Bluetooth Speaker,Electronics Accessories,WH04,Bhiwandi DC,West,WH12,Nagpur DC,Central,LOW,192,0,43584.0,1152.0,12672.0,11520.0
+SKU059,Lip Balm,Personal Care,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,STOCKOUT,249,1,37350.0,623.0,11952.0,11330.0
+SKU065,Glass Cleaner 500ml,Home Care,WH03,Lucknow DC,North,WH02,Jaipur DC,North,STOCKOUT,633,1,51906.0,1583.0,12660.0,11078.0
+SKU105,Face Masks 50pk,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH09,Hyderabad DC,South,LOW,480,0,44160.0,2880.0,13920.0,11040.0
+SKU101,Vitamin C 30s,OTC Pharma & Wellness,WH10,Kolkata DC,East,WH11,Guwahati DC,East,LOW,181,1,31856.0,453.0,11041.0,10589.0
+SKU066,Fabric Softener 1L,Home Care,WH04,Bhiwandi DC,West,WH05,Pune DC,West,LOW,871,1,44421.0,2178.0,12194.0,10017.0
+SKU066,Fabric Softener 1L,Home Care,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,CRITICAL,1239,0,63189.0,7434.0,17346.0,9912.0
+SKU107,Stretch Film 500mm,Packaging & Supplies,WH01,Gurugram DC,North,WH05,Pune DC,West,STOCKOUT,186,0,60264.0,1116.0,10974.0,9858.0
+SKU090,HDMI Cable 2m,Electronics Accessories,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,LOW,117,1,34164.0,293.0,10062.0,9770.0
+SKU075,Naphthalene Balls 200g,Home Care,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,STOCKOUT,1943,0,95207.0,11658.0,21373.0,9715.0
+SKU033,Glucose Biscuits 300g,Snacks & Confectionery,WH12,Nagpur DC,Central,WH06,Ahmedabad DC,West,STOCKOUT,499,0,59381.0,2994.0,12475.0,9481.0
+SKU033,Glucose Biscuits 300g,Snacks & Confectionery,WH12,Nagpur DC,Central,WH08,Chennai DC,South,CRITICAL,499,0,59381.0,2994.0,12475.0,9481.0
+SKU033,Glucose Biscuits 300g,Snacks & Confectionery,WH12,Nagpur DC,Central,WH10,Kolkata DC,East,LOW,499,0,59381.0,2994.0,12475.0,9481.0
+SKU004,Moong Dal 1kg,Packaged Staples,WH04,Bhiwandi DC,West,WH05,Pune DC,West,LOW,1112,1,88960.0,2780.0,12232.0,9452.0
+SKU040,Wafers 75g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH03,Lucknow DC,North,LOW,727,0,65430.0,4362.0,13813.0,9451.0
+SKU059,Lip Balm,Personal Care,WH04,Bhiwandi DC,West,WH05,Pune DC,West,LOW,207,1,31050.0,518.0,9936.0,9419.0
+SKU065,Glass Cleaner 500ml,Home Care,WH11,Guwahati DC,East,WH10,Kolkata DC,East,LOW,523,1,42886.0,1308.0,10460.0,9153.0
+SKU105,Face Masks 50pk,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH11,Guwahati DC,East,STOCKOUT,383,0,35236.0,2298.0,11107.0,8809.0
+SKU091,Paracetamol 500mg 15s,OTC Pharma & Wellness,WH09,Hyderabad DC,South,WH08,Chennai DC,South,LOW,299,1,33787.0,748.0,9269.0,8522.0
+SKU075,Naphthalene Balls 200g,Home Care,WH04,Bhiwandi DC,West,WH09,Hyderabad DC,South,CRITICAL,1686,0,82614.0,10116.0,18546.0,8430.0
+SKU077,Fast Charger 25W,Electronics Accessories,WH09,Hyderabad DC,South,WH05,Pune DC,West,STOCKOUT,87,0,31668.0,522.0,8787.0,8265.0
+SKU077,Fast Charger 25W,Electronics Accessories,WH09,Hyderabad DC,South,WH10,Kolkata DC,East,LOW,87,0,31668.0,522.0,8787.0,8265.0
+SKU004,Moong Dal 1kg,Packaged Staples,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,LOW,1621,0,129680.0,9726.0,17831.0,8105.0
+SKU051,Hair Oil 200ml,Personal Care,WH12,Nagpur DC,Central,WH08,Chennai DC,South,LOW,197,0,30732.0,1182.0,9259.0,8077.0
+SKU051,Hair Oil 200ml,Personal Care,WH12,Nagpur DC,Central,WH10,Kolkata DC,East,STOCKOUT,197,0,30732.0,1182.0,9259.0,8077.0
+SKU051,Hair Oil 200ml,Personal Care,WH12,Nagpur DC,Central,WH11,Guwahati DC,East,STOCKOUT,197,0,30732.0,1182.0,9259.0,8077.0
+SKU091,Paracetamol 500mg 15s,OTC Pharma & Wellness,WH09,Hyderabad DC,South,WH05,Pune DC,West,LOW,309,0,34917.0,1854.0,9579.0,7725.0
+SKU090,HDMI Cable 2m,Electronics Accessories,WH04,Bhiwandi DC,West,WH02,Jaipur DC,North,LOW,94,0,27448.0,564.0,8084.0,7520.0
+SKU028,Sports Drink 500ml,Beverages,WH12,Nagpur DC,Central,WH07,Bengaluru DC,South,LOW,478,0,52580.0,2868.0,10038.0,7170.0
+SKU028,Sports Drink 500ml,Beverages,WH12,Nagpur DC,Central,WH08,Chennai DC,South,LOW,478,0,52580.0,2868.0,10038.0,7170.0
+SKU028,Sports Drink 500ml,Beverages,WH12,Nagpur DC,Central,WH10,Kolkata DC,East,LOW,478,0,52580.0,2868.0,10038.0,7170.0
+SKU084,LED Bulb 9W,Electronics Accessories,WH01,Gurugram DC,North,WH11,Guwahati DC,East,STOCKOUT,174,0,27840.0,1044.0,8178.0,7134.0
+SKU099,Digital Thermometer,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH11,Guwahati DC,East,STOCKOUT,390,0,34320.0,2340.0,9360.0,7020.0
+SKU023,Coconut Water 200ml,Beverages,WH01,Gurugram DC,North,WH10,Kolkata DC,East,LOW,1736,0,102424.0,10416.0,17360.0,6944.0
+SKU092,ORS Sachets 10pk,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,LOW,488,0,26840.0,2928.0,9760.0,6832.0
+SKU095,Multivitamin 30s,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH11,Guwahati DC,East,STOCKOUT,125,0,22250.0,750.0,7375.0,6625.0
+SKU017,Lemon Soda 600ml,Beverages,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,LOW,3283,0,137886.0,19698.0,26264.0,6566.0
+SKU063,Floor Cleaner 1L,Home Care,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,1087,0,47828.0,6522.0,13044.0,6522.0
+SKU034,Cream Biscuits 120g,Snacks & Confectionery,WH02,Jaipur DC,North,WH03,Lucknow DC,North,CRITICAL,676,1,41236.0,1690.0,8112.0,6422.0
+SKU052,Deodorant 150ml,Personal Care,WH01,Gurugram DC,North,WH03,Lucknow DC,North,LOW,142,1,18886.0,355.0,6532.0,6177.0
+SKU066,Fabric Softener 1L,Home Care,WH04,Bhiwandi DC,West,WH02,Jaipur DC,North,LOW,751,0,38301.0,4506.0,10514.0,6008.0
+SKU107,Stretch Film 500mm,Packaging & Supplies,WH01,Gurugram DC,North,WH11,Guwahati DC,East,STOCKOUT,112,0,36288.0,672.0,6608.0,5936.0
+SKU003,Toor Dal 1kg,Packaged Staples,WH01,Gurugram DC,North,WH06,Ahmedabad DC,West,LOW,2851,0,173911.0,17106.0,22808.0,5702.0
+SKU003,Toor Dal 1kg,Packaged Staples,WH01,Gurugram DC,North,WH08,Chennai DC,South,STOCKOUT,2763,0,168543.0,16578.0,22104.0,5526.0
+SKU052,Deodorant 150ml,Personal Care,WH01,Gurugram DC,North,WH08,Chennai DC,South,STOCKOUT,138,0,18354.0,828.0,6348.0,5520.0
+SKU052,Deodorant 150ml,Personal Care,WH01,Gurugram DC,North,WH12,Nagpur DC,Central,LOW,133,0,17689.0,798.0,6118.0,5320.0
+SKU108,BOPP Tape 48mm,Packaging & Supplies,WH04,Bhiwandi DC,West,WH05,Pune DC,West,LOW,44,1,30756.0,110.0,5412.0,5302.0
+SKU108,BOPP Tape 48mm,Packaging & Supplies,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,STOCKOUT,44,1,30756.0,110.0,5412.0,5302.0
+SKU108,BOPP Tape 48mm,Packaging & Supplies,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,STOCKOUT,44,0,30756.0,264.0,5412.0,5148.0
+SKU108,BOPP Tape 48mm,Packaging & Supplies,WH04,Bhiwandi DC,West,WH12,Nagpur DC,Central,LOW,44,0,30756.0,264.0,5412.0,5148.0
+SKU077,Fast Charger 25W,Electronics Accessories,WH09,Hyderabad DC,South,WH03,Lucknow DC,North,LOW,54,0,19656.0,324.0,5454.0,5130.0
+SKU085,Extension Board 4-socket,Electronics Accessories,WH01,Gurugram DC,North,WH12,Nagpur DC,Central,LOW,57,0,19152.0,342.0,5415.0,5073.0
+SKU022,Iced Tea 500ml,Beverages,WH02,Jaipur DC,North,WH03,Lucknow DC,North,LOW,576,1,30528.0,1440.0,6336.0,4896.0
+SKU085,Extension Board 4-socket,Electronics Accessories,WH01,Gurugram DC,North,WH11,Guwahati DC,East,STOCKOUT,55,0,18480.0,330.0,5225.0,4895.0
+SKU059,Lip Balm,Personal Care,WH11,Guwahati DC,East,WH10,Kolkata DC,East,STOCKOUT,107,1,16050.0,268.0,5136.0,4869.0
+SKU096,Antiseptic Liquid 250ml,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,266,0,23408.0,1596.0,6384.0,4788.0
+SKU059,Lip Balm,Personal Care,WH11,Guwahati DC,East,WH02,Jaipur DC,North,LOW,107,0,16050.0,642.0,5136.0,4494.0
+SKU059,Lip Balm,Personal Care,WH11,Guwahati DC,East,WH03,Lucknow DC,North,STOCKOUT,107,0,16050.0,642.0,5136.0,4494.0
+SKU059,Lip Balm,Personal Care,WH11,Guwahati DC,East,WH08,Chennai DC,South,STOCKOUT,107,0,16050.0,642.0,5136.0,4494.0
+SKU059,Lip Balm,Personal Care,WH11,Guwahati DC,East,WH09,Hyderabad DC,South,LOW,107,0,16050.0,642.0,5136.0,4494.0
+SKU003,Toor Dal 1kg,Packaged Staples,WH01,Gurugram DC,North,WH11,Guwahati DC,East,STOCKOUT,2098,0,127978.0,12588.0,16784.0,4196.0
+SKU022,Iced Tea 500ml,Beverages,WH02,Jaipur DC,North,WH08,Chennai DC,South,LOW,835,0,44255.0,5010.0,9185.0,4175.0
+SKU022,Iced Tea 500ml,Beverages,WH02,Jaipur DC,North,WH11,Guwahati DC,East,STOCKOUT,835,0,44255.0,5010.0,9185.0,4175.0
+SKU104,Hand Sanitizer 500ml,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,823,0,30451.0,4938.0,9053.0,4115.0
+SKU107,Stretch Film 500mm,Packaging & Supplies,WH01,Gurugram DC,North,WH10,Kolkata DC,East,STOCKOUT,77,0,24948.0,462.0,4543.0,4081.0
+SKU063,Floor Cleaner 1L,Home Care,WH04,Bhiwandi DC,West,WH12,Nagpur DC,Central,LOW,671,0,29524.0,4026.0,8052.0,4026.0
+SKU063,Floor Cleaner 1L,Home Care,WH04,Bhiwandi DC,West,WH11,Guwahati DC,East,STOCKOUT,663,0,29172.0,3978.0,7956.0,3978.0
+SKU108,BOPP Tape 48mm,Packaging & Supplies,WH04,Bhiwandi DC,West,WH02,Jaipur DC,North,LOW,34,0,23766.0,204.0,4182.0,3978.0
+SKU027,Lassi 200ml,Beverages,WH03,Lucknow DC,North,WH06,Ahmedabad DC,West,LOW,657,0,39420.0,3942.0,7884.0,3942.0
+SKU027,Lassi 200ml,Beverages,WH03,Lucknow DC,North,WH08,Chennai DC,South,STOCKOUT,657,0,39420.0,3942.0,7884.0,3942.0
+SKU027,Lassi 200ml,Beverages,WH03,Lucknow DC,North,WH11,Guwahati DC,East,LOW,628,0,37680.0,3768.0,7536.0,3768.0
+SKU091,Paracetamol 500mg 15s,OTC Pharma & Wellness,WH09,Hyderabad DC,South,WH06,Ahmedabad DC,West,CRITICAL,148,0,16724.0,888.0,4588.0,3700.0
+SKU021,Fruit Juice 1L,Beverages,WH05,Pune DC,West,WH06,Ahmedabad DC,West,LOW,556,1,30024.0,1390.0,5004.0,3614.0
+SKU030,Malt Drink 500g,Beverages,WH02,Jaipur DC,North,WH03,Lucknow DC,North,LOW,944,1,29264.0,2360.0,5664.0,3304.0
+SKU104,Hand Sanitizer 500ml,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH07,Bengaluru DC,South,LOW,659,0,24383.0,3954.0,7249.0,3295.0
+SKU008,Iodized Salt 1kg,Packaged Staples,WH03,Lucknow DC,North,WH02,Jaipur DC,North,LOW,240,1,33600.0,600.0,3840.0,3240.0
+SKU096,Antiseptic Liquid 250ml,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH10,Kolkata DC,East,LOW,180,0,15840.0,1080.0,4320.0,3240.0
+SKU059,Lip Balm,Personal Care,WH11,Guwahati DC,East,WH12,Nagpur DC,Central,LOW,74,0,11100.0,444.0,3552.0,3108.0
+SKU108,BOPP Tape 48mm,Packaging & Supplies,WH04,Bhiwandi DC,West,WH11,Guwahati DC,East,LOW,26,0,18174.0,156.0,3198.0,3042.0
+SKU092,ORS Sachets 10pk,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH11,Guwahati DC,East,CRITICAL,208,0,11440.0,1248.0,4160.0,2912.0
+SKU110,Pallet Strapping Roll,Packaging & Supplies,WH01,Gurugram DC,North,WH03,Lucknow DC,North,CRITICAL,516,1,23220.0,1290.0,4128.0,2838.0
+SKU038,Peanut Chikki 200g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH06,Ahmedabad DC,West,LOW,1877,1,33786.0,4693.0,7508.0,2816.0
+SKU002,Basmati Rice 5kg,Packaged Staples,WH07,Bengaluru DC,South,WH09,Hyderabad DC,South,LOW,607,1,35813.0,1518.0,4249.0,2732.0
+SKU044,Rusk 300g,Snacks & Confectionery,WH12,Nagpur DC,Central,WH03,Lucknow DC,North,STOCKOUT,376,0,21432.0,2256.0,4888.0,2632.0
+SKU044,Rusk 300g,Snacks & Confectionery,WH12,Nagpur DC,Central,WH08,Chennai DC,South,LOW,376,0,21432.0,2256.0,4888.0,2632.0
+SKU044,Rusk 300g,Snacks & Confectionery,WH12,Nagpur DC,Central,WH09,Hyderabad DC,South,LOW,376,0,21432.0,2256.0,4888.0,2632.0
+SKU098,Bandage Pack,OTC Pharma & Wellness,WH12,Nagpur DC,Central,WH08,Chennai DC,South,LOW,228,0,11172.0,1368.0,3876.0,2508.0
+SKU107,Stretch Film 500mm,Packaging & Supplies,WH01,Gurugram DC,North,WH03,Lucknow DC,North,LOW,43,1,13932.0,108.0,2537.0,2430.0
+SKU106,Corrugated Box 12x12,Packaging & Supplies,WH10,Kolkata DC,East,WH11,Guwahati DC,East,CRITICAL,31,1,12400.0,78.0,2480.0,2403.0
+SKU008,Iodized Salt 1kg,Packaged Staples,WH03,Lucknow DC,North,WH09,Hyderabad DC,South,LOW,240,0,33600.0,1440.0,3840.0,2400.0
+SKU106,Corrugated Box 12x12,Packaging & Supplies,WH10,Kolkata DC,East,WH02,Jaipur DC,North,LOW,31,0,12400.0,186.0,2480.0,2294.0
+SKU106,Corrugated Box 12x12,Packaging & Supplies,WH10,Kolkata DC,East,WH03,Lucknow DC,North,CRITICAL,31,0,12400.0,186.0,2480.0,2294.0
+SKU106,Corrugated Box 12x12,Packaging & Supplies,WH10,Kolkata DC,East,WH05,Pune DC,West,LOW,31,0,12400.0,186.0,2480.0,2294.0
+SKU106,Corrugated Box 12x12,Packaging & Supplies,WH10,Kolkata DC,East,WH08,Chennai DC,South,STOCKOUT,31,0,12400.0,186.0,2480.0,2294.0
+SKU077,Fast Charger 25W,Electronics Accessories,WH09,Hyderabad DC,South,WH11,Guwahati DC,East,STOCKOUT,23,0,8372.0,138.0,2323.0,2185.0
+SKU094,Cough Syrup 100ml,OTC Pharma & Wellness,WH01,Gurugram DC,North,WH03,Lucknow DC,North,LOW,35,1,6650.0,88.0,2240.0,2153.0
+SKU038,Peanut Chikki 200g,Snacks & Confectionery,WH11,Guwahati DC,East,WH10,Kolkata DC,East,LOW,1415,1,25470.0,3538.0,5660.0,2123.0
+SKU008,Iodized Salt 1kg,Packaged Staples,WH03,Lucknow DC,North,WH11,Guwahati DC,East,CRITICAL,212,0,29680.0,1272.0,3392.0,2120.0
+SKU075,Naphthalene Balls 200g,Home Care,WH03,Lucknow DC,North,WH02,Jaipur DC,North,LOW,238,1,11662.0,595.0,2618.0,2023.0
+SKU019,Packaged Water 1L,Beverages,WH03,Lucknow DC,North,WH02,Jaipur DC,North,STOCKOUT,224,1,12768.0,560.0,2464.0,1904.0
+SKU096,Antiseptic Liquid 250ml,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH11,Guwahati DC,East,LOW,95,0,8360.0,570.0,2280.0,1710.0
+SKU106,Corrugated Box 12x12,Packaging & Supplies,WH10,Kolkata DC,East,WH12,Nagpur DC,Central,LOW,23,0,9200.0,138.0,1840.0,1702.0
+SKU021,Fruit Juice 1L,Beverages,WH05,Pune DC,West,WH11,Guwahati DC,East,LOW,556,0,30024.0,3336.0,5004.0,1668.0
+SKU046,Shampoo 340ml,Personal Care,WH03,Lucknow DC,North,WH02,Jaipur DC,North,STOCKOUT,113,1,5763.0,283.0,1808.0,1526.0
+SKU071,Bleach 500ml,Home Care,WH10,Kolkata DC,East,WH11,Guwahati DC,East,STOCKOUT,187,1,7667.0,468.0,1870.0,1403.0
+SKU030,Malt Drink 500g,Beverages,WH11,Guwahati DC,East,WH10,Kolkata DC,East,LOW,382,1,11842.0,955.0,2292.0,1337.0
+SKU021,Fruit Juice 1L,Beverages,WH05,Pune DC,West,WH02,Jaipur DC,North,LOW,439,0,23706.0,2634.0,3951.0,1317.0
+SKU110,Pallet Strapping Roll,Packaging & Supplies,WH01,Gurugram DC,North,WH09,Hyderabad DC,South,LOW,650,0,29250.0,3900.0,5200.0,1300.0
+SKU046,Shampoo 340ml,Personal Care,WH03,Lucknow DC,North,WH05,Pune DC,West,LOW,113,0,5763.0,678.0,1808.0,1130.0
+SKU046,Shampoo 340ml,Personal Care,WH03,Lucknow DC,North,WH08,Chennai DC,South,LOW,113,0,5763.0,678.0,1808.0,1130.0
+SKU046,Shampoo 340ml,Personal Care,WH03,Lucknow DC,North,WH11,Guwahati DC,East,STOCKOUT,113,0,5763.0,678.0,1808.0,1130.0
+SKU046,Shampoo 340ml,Personal Care,WH03,Lucknow DC,North,WH12,Nagpur DC,Central,CRITICAL,113,0,5763.0,678.0,1808.0,1130.0
+SKU019,Packaged Water 1L,Beverages,WH03,Lucknow DC,North,WH04,Bhiwandi DC,West,LOW,224,0,12768.0,1344.0,2464.0,1120.0
+SKU019,Packaged Water 1L,Beverages,WH03,Lucknow DC,North,WH05,Pune DC,West,LOW,224,0,12768.0,1344.0,2464.0,1120.0
+SKU019,Packaged Water 1L,Beverages,WH03,Lucknow DC,North,WH06,Ahmedabad DC,West,LOW,224,0,12768.0,1344.0,2464.0,1120.0
+SKU019,Packaged Water 1L,Beverages,WH03,Lucknow DC,North,WH08,Chennai DC,South,LOW,224,0,12768.0,1344.0,2464.0,1120.0
+SKU019,Packaged Water 1L,Beverages,WH03,Lucknow DC,North,WH11,Guwahati DC,East,CRITICAL,224,0,12768.0,1344.0,2464.0,1120.0
+SKU110,Pallet Strapping Roll,Packaging & Supplies,WH01,Gurugram DC,North,WH08,Chennai DC,South,LOW,453,0,20385.0,2718.0,3624.0,906.0
+SKU120,Cutter Blades 10pk,Packaging & Supplies,WH11,Guwahati DC,East,WH10,Kolkata DC,East,LOW,358,1,10740.0,895.0,1790.0,895.0
+SKU115,Edge Protectors 50pk,Packaging & Supplies,WH04,Bhiwandi DC,West,WH03,Lucknow DC,North,CRITICAL,175,0,9100.0,1050.0,1925.0,875.0
+SKU110,Pallet Strapping Roll,Packaging & Supplies,WH01,Gurugram DC,North,WH11,Guwahati DC,East,STOCKOUT,407,0,18315.0,2442.0,3256.0,814.0
+SKU071,Bleach 500ml,Home Care,WH10,Kolkata DC,East,WH03,Lucknow DC,North,LOW,187,0,7667.0,1122.0,1870.0,748.0
+SKU106,Corrugated Box 12x12,Packaging & Supplies,WH10,Kolkata DC,East,WH09,Hyderabad DC,South,LOW,10,0,4000.0,60.0,800.0,740.0
+SKU115,Edge Protectors 50pk,Packaging & Supplies,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,CRITICAL,147,0,7644.0,882.0,1617.0,735.0
+SKU115,Edge Protectors 50pk,Packaging & Supplies,WH11,Guwahati DC,East,WH10,Kolkata DC,East,LOW,78,1,4056.0,195.0,858.0,663.0
+SKU002,Basmati Rice 5kg,Packaged Staples,WH07,Bengaluru DC,South,WH02,Jaipur DC,North,CRITICAL,607,0,35813.0,3642.0,4249.0,607.0
+SKU104,Hand Sanitizer 500ml,OTC Pharma & Wellness,WH04,Bhiwandi DC,West,WH02,Jaipur DC,North,LOW,112,0,4144.0,672.0,1232.0,560.0
+SKU053,Sanitary Pads 20pk,Personal Care,WH08,Chennai DC,South,WH10,Kolkata DC,East,STOCKOUT,176,0,5456.0,1056.0,1408.0,352.0
+SKU115,Edge Protectors 50pk,Packaging & Supplies,WH04,Bhiwandi DC,West,WH12,Nagpur DC,Central,LOW,69,0,3588.0,414.0,759.0,345.0
+SKU053,Sanitary Pads 20pk,Personal Care,WH08,Chennai DC,South,WH02,Jaipur DC,North,LOW,154,0,4774.0,924.0,1232.0,308.0
+SKU049,Face Wash 100ml,Personal Care,WH11,Guwahati DC,East,WH10,Kolkata DC,East,CRITICAL,46,1,1472.0,115.0,414.0,299.0
+SKU024,Instant Coffee 100g,Beverages,WH11,Guwahati DC,East,WH10,Kolkata DC,East,CRITICAL,170,1,4590.0,425.0,680.0,255.0
+SKU053,Sanitary Pads 20pk,Personal Care,WH08,Chennai DC,South,WH11,Guwahati DC,East,LOW,121,0,3751.0,726.0,968.0,242.0
+SKU053,Sanitary Pads 20pk,Personal Care,WH08,Chennai DC,South,WH05,Pune DC,West,CRITICAL,111,0,3441.0,666.0,888.0,222.0
+SKU112,Poly Mailer 100pk,Packaging & Supplies,WH12,Nagpur DC,Central,WH07,Bengaluru DC,South,LOW,10,0,930.0,60.0,200.0,140.0
+SKU112,Poly Mailer 100pk,Packaging & Supplies,WH12,Nagpur DC,Central,WH08,Chennai DC,South,LOW,10,0,930.0,60.0,200.0,140.0
+SKU112,Poly Mailer 100pk,Packaging & Supplies,WH12,Nagpur DC,Central,WH09,Hyderabad DC,South,LOW,10,0,930.0,60.0,200.0,140.0
+SKU112,Poly Mailer 100pk,Packaging & Supplies,WH12,Nagpur DC,Central,WH10,Kolkata DC,East,STOCKOUT,10,0,930.0,60.0,200.0,140.0
+SKU112,Poly Mailer 100pk,Packaging & Supplies,WH12,Nagpur DC,Central,WH11,Guwahati DC,East,STOCKOUT,10,0,930.0,60.0,200.0,140.0
+SKU049,Face Wash 100ml,Personal Care,WH11,Guwahati DC,East,WH07,Bengaluru DC,South,STOCKOUT,46,0,1472.0,276.0,414.0,138.0
+SKU049,Face Wash 100ml,Personal Care,WH11,Guwahati DC,East,WH08,Chennai DC,South,STOCKOUT,46,0,1472.0,276.0,414.0,138.0
+SKU030,Malt Drink 500g,Beverages,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,CRITICAL,3663,0,113553.0,21978.0,21978.0,0.0
+SKU120,Cutter Blades 10pk,Packaging & Supplies,WH01,Gurugram DC,North,WH06,Ahmedabad DC,West,LOW,196,0,5880.0,1176.0,980.0,-196.0
+SKU024,Instant Coffee 100g,Beverages,WH11,Guwahati DC,East,WH12,Nagpur DC,Central,LOW,120,0,3240.0,720.0,480.0,-240.0
+SKU024,Instant Coffee 100g,Beverages,WH11,Guwahati DC,East,WH07,Bengaluru DC,South,CRITICAL,170,0,4590.0,1020.0,680.0,-340.0
+SKU024,Instant Coffee 100g,Beverages,WH11,Guwahati DC,East,WH08,Chennai DC,South,LOW,170,0,4590.0,1020.0,680.0,-340.0
+SKU032,Namkeen Mix 400g,Snacks & Confectionery,WH11,Guwahati DC,East,WH02,Jaipur DC,North,LOW,189,0,2646.0,1134.0,567.0,-567.0
+SKU032,Namkeen Mix 400g,Snacks & Confectionery,WH11,Guwahati DC,East,WH12,Nagpur DC,Central,LOW,189,0,2646.0,1134.0,567.0,-567.0
+SKU120,Cutter Blades 10pk,Packaging & Supplies,WH01,Gurugram DC,North,WH08,Chennai DC,South,CRITICAL,719,0,21570.0,4314.0,3595.0,-719.0
+SKU043,Soan Papdi 500g,Snacks & Confectionery,WH12,Nagpur DC,Central,WH08,Chennai DC,South,STOCKOUT,279,0,4185.0,1674.0,837.0,-837.0
+SKU035,Chocolate Bar 40g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH02,Jaipur DC,North,LOW,440,0,7040.0,2640.0,1760.0,-880.0
+SKU117,Courier Bags 100pk,Packaging & Supplies,WH01,Gurugram DC,North,WH06,Ahmedabad DC,West,LOW,444,0,9324.0,2664.0,1776.0,-888.0
+SKU012,Rajma 1kg,Packaged Staples,WH11,Guwahati DC,East,WH07,Bengaluru DC,South,STOCKOUT,900,0,40500.0,5400.0,4500.0,-900.0
+SKU012,Rajma 1kg,Packaged Staples,WH11,Guwahati DC,East,WH08,Chennai DC,South,LOW,900,0,40500.0,5400.0,4500.0,-900.0
+SKU120,Cutter Blades 10pk,Packaging & Supplies,WH01,Gurugram DC,North,WH07,Bengaluru DC,South,LOW,904,0,27120.0,5424.0,4520.0,-904.0
+SKU043,Soan Papdi 500g,Snacks & Confectionery,WH12,Nagpur DC,Central,WH10,Kolkata DC,East,STOCKOUT,349,0,5235.0,2094.0,1047.0,-1047.0
+SKU117,Courier Bags 100pk,Packaging & Supplies,WH01,Gurugram DC,North,WH08,Chennai DC,South,CRITICAL,684,0,14364.0,4104.0,2736.0,-1368.0
+SKU117,Courier Bags 100pk,Packaging & Supplies,WH01,Gurugram DC,North,WH07,Bengaluru DC,South,LOW,961,0,20181.0,5766.0,3844.0,-1922.0
+SKU035,Chocolate Bar 40g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH03,Lucknow DC,North,LOW,976,0,15616.0,5856.0,3904.0,-1952.0
+SKU035,Chocolate Bar 40g,Snacks & Confectionery,WH04,Bhiwandi DC,West,WH08,Chennai DC,South,LOW,2269,0,36304.0,13614.0,9076.0,-4538.0

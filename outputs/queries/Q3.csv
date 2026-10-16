@@ -1,0 +1,26 @@
+season,region,stockout_rate_pct,fill_rate_pct
+Festive (Diwali),Central,5.52,97.66
+Festive (Diwali),East,11.51,94.26
+Festive (Diwali),North,3.54,98.92
+Festive (Diwali),South,10.73,94.79
+Festive (Diwali),West,3.68,98.81
+Monsoon,Central,4.29,98.11
+Monsoon,East,14.73,93.36
+Monsoon,North,3.56,98.89
+Monsoon,South,11.29,95.25
+Monsoon,West,3.14,99.04
+Regular,Central,3.25,98.61
+Regular,East,12.08,94.43
+Regular,North,2.17,99.07
+Regular,South,8.69,95.98
+Regular,West,2.53,99.15
+Summer,Central,3.58,98.64
+Summer,East,12.52,94.01
+Summer,North,2.46,99.03
+Summer,South,10.25,95.12
+Summer,West,2.27,99.17
+Winter,Central,2.37,98.8
+Winter,East,9.66,95.19
+Winter,North,1.99,99.35
+Winter,South,8.73,95.75
+Winter,West,1.69,99.4

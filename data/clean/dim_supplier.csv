@@ -1,0 +1,23 @@
+supplier_id,supplier_name,category,origin_city,origin_region,supplier_tier,payment_terms_days
+SUP01,Shree Ganesh Agro Foods,Packaged Staples,Indore,Central,Tier 1,30
+SUP02,Annapurna Staples Pvt Ltd,Packaged Staples,Kanpur,North,Tier 2,45
+SUP03,Kisan Mill Traders,Packaged Staples,Kolkata,East,Tier 3,45
+SUP04,Coastal Beverages Co,Beverages,Kochi,South,Tier 1,30
+SUP05,Himalayan Spring Bottlers,Beverages,Dehradun,North,Tier 2,30
+SUP06,Sunrise Fruit Drinks,Beverages,Nashik,West,Tier 2,45
+SUP07,Crunchy Bite Foods,Snacks & Confectionery,Ahmedabad,West,Tier 1,60
+SUP08,Mithaiwala Confectionery,Snacks & Confectionery,Jaipur,North,Tier 2,30
+SUP09,Namkeen Nation Pvt Ltd,Snacks & Confectionery,Bikaner,North,Tier 1,45
+SUP10,Glow Naturals Care,Personal Care,Mumbai,West,Tier 1,30
+SUP11,Ayur Beauty Labs,Personal Care,Hyderabad,South,Tier 2,60
+SUP12,PureSkin Personal Care,Personal Care,Baddi,North,Tier 3,60
+SUP13,CleanSwift Home Products,Home Care,Pune,West,Tier 1,45
+SUP14,Sparkle Household Ltd,Home Care,Vapi,West,Tier 2,45
+SUP15,TechNest Accessories,Electronics Accessories,Noida,North,Tier 2,45
+SUP16,VoltEdge Electronics,Electronics Accessories,Chennai,South,Tier 1,60
+SUP17,ConnectPro Gadgets,Electronics Accessories,Mumbai,West,Tier 3,45
+SUP18,VitaCare Pharma Distributors,OTC Pharma & Wellness,Ahmedabad,West,Tier 1,30
+SUP19,MediTrust Healthcare,OTC Pharma & Wellness,Hyderabad,South,Tier 2,30
+SUP20,WellSpring OTC Pvt Ltd,OTC Pharma & Wellness,Guwahati,East,Tier 2,30
+SUP21,PackWell Industries,Packaging & Supplies,Faridabad,North,Tier 2,45
+SUP22,SafeShip Packaging,Packaging & Supplies,Coimbatore,South,Tier 3,45

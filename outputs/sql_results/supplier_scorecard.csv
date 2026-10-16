@@ -1,0 +1,23 @@
+supplier_id,supplier_name,category,supplier_tier,po_count,received_pos,on_time_pct,avg_days_vs_promise,avg_days_late_when_late,qty_fill_pct,open_pos,overdue_open_pos,overdue_open_value_inr,total_po_value_inr
+SUP17,ConnectPro Gadgets,Electronics Accessories,Tier 3,1145,1099,38.4,5.98,9.71,96.6,46,19,9027725.0,651142557.0
+SUP03,Kisan Mill Traders,Packaged Staples,Tier 3,1138,1114,44.5,4.38,7.89,97.4,24,12,6188270.0,404712883.0
+SUP12,PureSkin Personal Care,Personal Care,Tier 3,2123,2073,47.8,4.71,9.02,97.3,50,22,3569159.0,322801595.0
+SUP22,SafeShip Packaging,Packaging & Supplies,Tier 3,2178,2105,50.0,3.8,7.6,97.3,73,21,3647099.0,325429969.0
+SUP20,WellSpring OTC Pvt Ltd,OTC Pharma & Wellness,Tier 2,1281,1257,64.3,2.04,5.71,98.2,24,0,0.0,109068053.0
+SUP15,TechNest Accessories,Electronics Accessories,Tier 2,466,451,67.8,1.88,5.84,97.9,15,0,0.0,410859259.0
+SUP06,Sunrise Fruit Drinks,Beverages,Tier 2,1686,1667,68.0,1.6,5.01,98.4,19,3,1147739.0,540267204.0
+SUP11,Ayur Beauty Labs,Personal Care,Tier 2,1013,994,71.4,1.54,5.4,98.2,19,1,36336.0,275332372.0
+SUP19,MediTrust Healthcare,OTC Pharma & Wellness,Tier 2,1293,1255,72.7,1.37,5.04,98.9,38,2,160008.0,163033781.0
+SUP08,Mithaiwala Confectionery,Snacks & Confectionery,Tier 2,1605,1587,73.0,1.32,4.9,98.6,18,4,617854.0,264169335.0
+SUP05,Himalayan Spring Bottlers,Beverages,Tier 2,1008,992,75.5,1.11,4.53,99.0,16,1,52129.0,140296566.0
+SUP02,Annapurna Staples Pvt Ltd,Packaged Staples,Tier 2,1930,1897,76.2,1.17,4.89,98.6,33,7,4175890.0,646676807.0
+SUP16,VoltEdge Electronics,Electronics Accessories,Tier 1,1826,1758,77.3,1.13,4.99,98.8,68,4,3197622.0,838403055.0
+SUP14,Sparkle Household Ltd,Home Care,Tier 2,1958,1923,77.6,1.05,4.67,98.8,35,2,198863.0,358341548.0
+SUP21,PackWell Industries,Packaging & Supplies,Tier 2,1944,1894,79.1,0.91,4.37,98.9,50,2,664291.0,321058562.0
+SUP09,Namkeen Nation Pvt Ltd,Snacks & Confectionery,Tier 1,584,579,81.9,0.71,3.92,98.5,5,2,390859.0,128934830.0
+SUP13,CleanSwift Home Products,Home Care,Tier 1,2216,2189,83.7,0.63,3.87,99.0,27,2,221515.0,362294958.0
+SUP07,Crunchy Bite Foods,Snacks & Confectionery,Tier 1,1895,1871,83.8,0.67,4.12,98.9,24,2,236251.0,459091622.0
+SUP10,Glow Naturals Care,Personal Care,Tier 1,838,827,84.2,0.62,3.92,99.2,11,0,0.0,184682228.0
+SUP18,VitaCare Pharma Distributors,OTC Pharma & Wellness,Tier 1,1328,1298,84.4,0.62,3.96,99.4,30,1,178562.0,120790819.0
+SUP04,Coastal Beverages Co,Beverages,Tier 1,1384,1369,87.2,0.43,3.39,99.3,15,0,0.0,314276175.0
+SUP01,Shree Ganesh Agro Foods,Packaged Staples,Tier 1,1152,1140,87.4,0.49,3.9,99.0,12,2,286543.0,374234891.0

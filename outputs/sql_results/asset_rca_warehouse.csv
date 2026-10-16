@@ -1,0 +1,13 @@
+warehouse_id,warehouse_name,region,assets,utilisation_pct,idle_pct,downtime_pct,breakdowns,maintenance_cost_inr,idle_cost_inr,net_surplus_assets
+WH05,Pune DC,West,41,35.5,60.5,4.0,695,32331783.0,16232912.0,20.0
+WH02,Jaipur DC,North,23,40.9,54.2,4.8,499,21055387.0,8283572.0,10.0
+WH04,Bhiwandi DC,West,41,70.7,24.6,4.7,782,34600578.0,6632178.0,0.0
+WH07,Bengaluru DC,South,33,69.3,26.3,4.4,565,25346191.0,5613195.0,0.0
+WH09,Hyderabad DC,South,27,71.7,23.7,4.6,505,23061818.0,4460277.0,0.0
+WH01,Gurugram DC,North,27,73.3,22.1,4.6,523,22301448.0,4090603.0,0.0
+WH10,Kolkata DC,East,26,68.4,22.9,8.8,1032,41121117.0,3871535.0,0.0
+WH06,Ahmedabad DC,West,23,70.0,26.0,3.9,334,15310732.0,3783951.0,0.0
+WH03,Lucknow DC,North,16,68.8,23.1,8.1,553,21998147.0,2298009.0,0.0
+WH12,Nagpur DC,Central,13,68.1,27.0,4.9,250,11332274.0,2184267.0,0.0
+WH11,Guwahati DC,East,7,83.4,11.2,5.3,179,8772577.0,502713.0,-1.0
+WH08,Chennai DC,South,14,93.1,0.5,6.4,431,17932158.0,77079.0,-4.0

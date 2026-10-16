@@ -1,0 +1,9 @@
+metric,expected_value
+Inventory_Clean row count,74880.0
+SUM(demand_units),36511963.0
+SUM(units_sold),35407539.0
+SUM(lost_units),1104424.0
+SUM(closing_stock),123203560.0
+SUM(stock_value_inr),14740899398.0
+SUM(lost_revenue_inr),235515585.0
+Fill rate %,96.975

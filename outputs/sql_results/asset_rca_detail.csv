@@ -1,0 +1,61 @@
+warehouse_id,warehouse_name,region,asset_type,asset_count,avg_age_years,utilisation_pct,idle_pct,downtime_pct,breakdowns,maintenance_cost_inr,maintenance_cost_per_run_hour_inr,idle_cost_inr,surplus_assets,diagnosis
+WH01,Gurugram DC,North,Conveyor Line,2,2.4,85.3,11.5,3.1,18,1624772.0,79.3,115651.0,0.0,OK
+WH01,Gurugram DC,North,Delivery Truck,7,5.9,69.4,25.6,5.0,143,7841431.0,224.2,1606866.0,0.0,OK
+WH01,Gurugram DC,North,Electric Pallet Jack,8,4.9,72.7,22.9,4.4,152,2405801.0,43.1,641913.0,0.0,OK
+WH01,Gurugram DC,North,Forklift (Electric),6,6.1,72.8,22.0,5.2,138,5533554.0,132.0,837573.0,0.0,OK
+WH01,Gurugram DC,North,Reach Truck,4,5.0,72.9,22.7,4.4,72,4895890.0,175.0,888600.0,0.0,OK
+WH02,Jaipur DC,North,Conveyor Line,2,3.7,41.9,54.4,3.6,28,2315655.0,230.1,679771.0,1.0,OVER-PROVISIONED (idle capacity)
+WH02,Jaipur DC,North,Delivery Truck,6,5.0,38.6,56.9,4.5,120,6825987.0,409.9,3179074.0,3.0,OVER-PROVISIONED (idle capacity)
+WH02,Jaipur DC,North,Electric Pallet Jack,7,5.2,39.5,55.9,4.6,149,2212594.0,83.3,1384735.0,3.0,OVER-PROVISIONED (idle capacity)
+WH02,Jaipur DC,North,Forklift (Electric),5,7.1,41.7,52.7,5.6,135,5268378.0,263.4,1597765.0,2.0,OVER-PROVISIONED (idle capacity)
+WH02,Jaipur DC,North,Reach Truck,3,7.3,45.8,48.5,5.7,67,4432773.0,336.4,1442227.0,1.0,OVER-PROVISIONED (idle capacity)
+WH03,Lucknow DC,North,Conveyor Line,1,10.2,88.8,3.1,8.1,33,2198833.0,206.4,19484.0,0.0,RELIABILITY (ageing / breakdowns)
+WH03,Lucknow DC,North,Delivery Truck,4,11.4,68.4,23.3,8.3,152,7862194.0,399.1,802589.0,0.0,RELIABILITY (ageing / breakdowns)
+WH03,Lucknow DC,North,Electric Pallet Jack,5,10.6,65.4,26.9,7.7,161,2312188.0,73.7,472608.0,0.0,RELIABILITY (ageing / breakdowns)
+WH03,Lucknow DC,North,Forklift (Electric),4,11.6,61.4,30.2,8.4,141,5552488.0,235.6,773988.0,0.0,RELIABILITY (ageing / breakdowns)
+WH03,Lucknow DC,North,Reach Truck,2,11.4,80.6,11.2,8.2,66,4072444.0,263.2,229340.0,0.0,RELIABILITY (ageing / breakdowns)
+WH04,Bhiwandi DC,West,Conveyor Line,4,4.8,64.1,31.7,4.2,73,5475404.0,177.9,854467.0,0.0,OK
+WH04,Bhiwandi DC,West,Delivery Truck,10,5.4,71.8,23.5,4.7,197,10725496.0,207.5,2167648.0,0.0,OK
+WH04,Bhiwandi DC,West,Electric Pallet Jack,12,5.6,71.4,23.8,4.8,220,3526052.0,42.9,1009779.0,0.0,OK
+WH04,Bhiwandi DC,West,Forklift (Electric),9,5.5,71.5,23.7,4.8,181,7223538.0,116.9,1352297.0,0.0,OK
+WH04,Bhiwandi DC,West,Reach Truck,6,6.2,71.9,23.0,5.1,111,7650088.0,184.7,1247987.0,0.0,OK
+WH05,Pune DC,West,Conveyor Line,4,5.0,32.3,63.2,4.5,94,6209132.0,399.9,1524435.0,2.0,OVER-PROVISIONED (idle capacity)
+WH05,Pune DC,West,Delivery Truck,10,4.5,35.9,60.0,4.1,174,9829694.0,380.4,5242984.0,5.0,OVER-PROVISIONED (idle capacity)
+WH05,Pune DC,West,Electric Pallet Jack,12,3.9,36.0,60.2,3.8,186,3184236.0,76.7,2529646.0,6.0,OVER-PROVISIONED (idle capacity)
+WH05,Pune DC,West,Forklift (Electric),9,4.4,36.0,60.0,4.0,140,5970185.0,191.9,3464420.0,4.0,OVER-PROVISIONED (idle capacity)
+WH05,Pune DC,West,Reach Truck,6,4.5,36.0,59.9,4.1,101,7138536.0,344.7,3471428.0,3.0,OVER-PROVISIONED (idle capacity)
+WH06,Ahmedabad DC,West,Conveyor Line,2,3.9,71.6,24.6,3.8,26,2073079.0,120.6,303953.0,0.0,OK
+WH06,Ahmedabad DC,West,Delivery Truck,6,4.3,65.7,30.2,4.0,94,5205056.0,183.3,1560589.0,0.0,OK
+WH06,Ahmedabad DC,West,Electric Pallet Jack,7,4.0,68.0,28.2,3.8,98,1625616.0,35.6,670796.0,0.0,OK
+WH06,Ahmedabad DC,West,Forklift (Electric),5,4.2,70.9,25.2,4.0,66,2838254.0,83.4,786361.0,0.0,OK
+WH06,Ahmedabad DC,West,Reach Truck,3,4.4,78.5,17.3,4.1,50,3568727.0,157.8,462251.0,0.0,OK
+WH07,Bengaluru DC,South,Conveyor Line,3,4.4,67.8,28.1,4.1,45,3459793.0,141.8,450878.0,0.0,OK
+WH07,Bengaluru DC,South,Delivery Truck,8,4.6,70.5,25.4,4.1,128,7371195.0,181.6,1859760.0,0.0,OK
+WH07,Bengaluru DC,South,Electric Pallet Jack,10,4.1,67.6,28.5,3.9,158,2444463.0,37.7,992839.0,0.0,OK
+WH07,Bengaluru DC,South,Forklift (Electric),7,6.6,72.5,22.0,5.4,151,6217173.0,127.6,951056.0,0.0,OK
+WH07,Bengaluru DC,South,Reach Truck,5,5.2,67.7,27.8,4.6,83,5853567.0,180.2,1358662.0,0.0,OK
+WH08,Chennai DC,South,Conveyor Line,1,5.0,92.5,0.0,7.5,35,2170900.0,195.6,0.0,0.0,RELIABILITY (ageing / breakdowns)
+WH08,Chennai DC,South,Delivery Truck,4,4.9,92.6,2.1,5.4,83,4743678.0,178.0,77079.0,-1.0,UNDER-PROVISIONED (overstretched)
+WH08,Chennai DC,South,Electric Pallet Jack,4,4.5,94.0,0.0,6.0,121,1725354.0,47.8,0.0,-1.0,UNDER-PROVISIONED (overstretched)
+WH08,Chennai DC,South,Forklift (Electric),3,5.5,93.4,0.0,6.6,103,3849972.0,143.1,0.0,-1.0,UNDER-PROVISIONED (overstretched)
+WH08,Chennai DC,South,Reach Truck,2,7.3,92.2,0.0,7.8,89,5442254.0,307.4,0.0,-1.0,RELIABILITY (ageing / breakdowns)
+WH09,Hyderabad DC,South,Conveyor Line,2,6.3,83.4,11.2,5.4,52,3801275.0,190.0,144975.0,0.0,OK
+WH09,Hyderabad DC,South,Delivery Truck,7,5.3,67.9,27.6,4.6,131,7031786.0,205.5,1744789.0,0.0,OK
+WH09,Hyderabad DC,South,Electric Pallet Jack,8,4.2,71.5,24.4,4.0,116,1883992.0,34.3,697595.0,0.0,OK
+WH09,Hyderabad DC,South,Forklift (Electric),6,6.1,70.7,24.3,5.0,135,5333531.0,131.0,942239.0,0.0,OK
+WH09,Hyderabad DC,South,Reach Truck,4,5.4,71.2,24.1,4.6,71,5011234.0,183.2,930679.0,0.0,OK
+WH10,Kolkata DC,East,Conveyor Line,2,11.6,78.4,13.1,8.4,77,4993805.0,265.3,137977.0,0.0,RELIABILITY (ageing / breakdowns)
+WH10,Kolkata DC,East,Delivery Truck,6,12.0,72.7,18.7,8.6,233,12039322.0,383.2,1087671.0,0.0,RELIABILITY (ageing / breakdowns)
+WH10,Kolkata DC,East,Electric Pallet Jack,8,12.0,66.2,25.1,8.7,313,4575516.0,90.0,723848.0,0.0,RELIABILITY (ageing / breakdowns)
+WH10,Kolkata DC,East,Forklift (Electric),6,13.1,65.6,25.1,9.3,239,9124979.0,241.6,974616.0,0.0,RELIABILITY (ageing / breakdowns)
+WH10,Kolkata DC,East,Reach Truck,4,11.8,65.9,25.6,8.5,170,10387495.0,410.8,947423.0,0.0,RELIABILITY (ageing / breakdowns)
+WH11,Guwahati DC,East,Conveyor Line,1,8.5,59.4,34.2,6.4,35,2308597.0,324.0,201932.0,0.0,OK
+WH11,Guwahati DC,East,Delivery Truck,2,5.0,81.6,13.8,4.5,37,2220883.0,188.9,235927.0,0.0,OK
+WH11,Guwahati DC,East,Electric Pallet Jack,2,4.1,91.3,4.3,4.4,31,503832.0,28.7,29813.0,-1.0,UNDER-PROVISIONED (overstretched)
+WH11,Guwahati DC,East,Forklift (Electric),1,3.6,93.6,0.0,6.4,42,1558958.0,173.4,0.0,0.0,UNDER-PROVISIONED (overstretched)
+WH11,Guwahati DC,East,Reach Truck,1,7.0,90.2,3.8,6.0,34,2180307.0,251.7,35041.0,0.0,UNDER-PROVISIONED (overstretched)
+WH12,Nagpur DC,Central,Conveyor Line,1,3.3,78.5,18.0,3.5,13,1142693.0,121.3,78029.0,0.0,OK
+WH12,Nagpur DC,Central,Delivery Truck,3,7.9,73.1,20.6,6.3,84,4688499.0,296.8,581851.0,0.0,OK
+WH12,Nagpur DC,Central,Electric Pallet Jack,4,6.1,65.5,29.5,5.0,71,1178066.0,46.9,412093.0,0.0,OK
+WH12,Nagpur DC,Central,Forklift (Electric),3,4.8,65.7,29.9,4.4,49,1988629.0,105.1,556798.0,0.0,OK
+WH12,Nagpur DC,Central,Reach Truck,2,5.5,65.1,30.2,4.7,33,2334387.0,186.8,555496.0,0.0,OK

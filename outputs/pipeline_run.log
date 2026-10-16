@@ -1,0 +1,49 @@
+Schema / CSV / LOAD DATA column check: OK
+Views created (7) in 0.0s
+Procedures parsed: sp_regional_kpis, sp_stock_deficit_alerts, sp_pipeline_delay_alerts, sp_stockout_root_cause, sp_excess_inventory_waste, sp_regional_rebalance, sp_asset_waste_rca, sp_generate_alerts
+
+as-of 2026-10-04; window 2024-10-07 .. 2026-09-28
+Running procedures...
+[  1.2s] sp_regional_kpis
+  kpi_by_warehouse                        12 rows
+  po_perf_by_warehouse                    12 rows
+[  0.6s] sp_stock_deficit_alerts
+  stock_deficit_alerts                   398 rows
+[  0.8s] sp_pipeline_delay_alerts
+  pipeline_delay_alerts                   71 rows
+[  2.7s] sp_stockout_root_cause
+  rca_cause_summary                        5 rows
+  rca_warehouse_matrix                    12 rows
+  rca_factor_overlap                       1 rows
+  rca_events                           9,178 rows
+[  0.7s] sp_excess_inventory_waste
+  excess_by_warehouse                     12 rows
+  excess_by_category                       8 rows
+  excess_lines                           120 rows
+[  1.5s] sp_regional_rebalance
+  rebalance_transfers                    236 rows
+  rebalance_flows                         68 rows
+[  0.1s] sp_asset_waste_rca
+  asset_rca_detail                        60 rows
+  asset_rca_warehouse                     12 rows
+[  1.8s] sp_generate_alerts
+  alert_summary                            5 rows
+  alert_log                              471 rows
+  time-travel alerts as of 2026-01-04: 379 alerts
+  supplier_scorecard                      22 rows
+Analysis queries:
+  Q1: Top 10 SKUs by revenue lost to stock-outs (full 104 weeks)               10 rows
+  Q2: Supplier on-time delivery by month received (does the monsoon hurt?)     25 rows
+  Q3: Stock-out rate and fill rate by season and region                        25 rows
+  Q4: Fill rate by category x region                                           40 rows
+  Q5: ABC class performance (A = top 70% of revenue, B = next 20%, C = last     3 rows
+  Q6: Stock concentration vs demand share, latest week (is stock where the d   12 rows
+  Q7: Festive preparedness - lost revenue per SKU-week, Diwali weeks vs othe    8 rows
+  Q8: Promised vs actual lead time by supplier tier (received POs only)         3 rows
+  Q9: Reorder-policy audit. Ratio of the reorder point actually used to (for   12 rows
+Flat extracts:
+  tableau_inventory_weekly           149,760 rows
+  tableau_purchase_orders             31,991 rows
+  tableau_asset_monthly                6,984 rows
+
+Done. Results are in outputs/sql_results and outputs/queries.

@@ -1,0 +1,121 @@
+sku_id,sku_name,category,unit_cost_inr,unit_price_inr,base_weekly_demand,lead_time_days,shelf_life_days,case_pack,primary_supplier_id,abc_class
+SKU001,Atta 5kg,Packaged Staples,152.0,168.0,569.0,10,270,12,SUP02,A
+SKU002,Basmati Rice 5kg,Packaged Staples,59.0,66.0,561.0,8,270,12,SUP01,B
+SKU003,Toor Dal 1kg,Packaged Staples,61.0,69.0,778.0,8,270,12,SUP02,A
+SKU004,Moong Dal 1kg,Packaged Staples,80.0,91.0,638.0,8,270,12,SUP02,B
+SKU005,Sunflower Oil 1L,Packaged Staples,245.0,273.0,718.0,7,270,12,SUP01,A
+SKU006,Mustard Oil 1L,Packaged Staples,68.0,77.0,437.0,8,270,12,SUP02,B
+SKU007,Sugar 1kg,Packaged Staples,129.0,143.0,739.0,10,270,12,SUP02,A
+SKU008,Iodized Salt 1kg,Packaged Staples,140.0,156.0,552.0,9,270,12,SUP02,A
+SKU009,Tea Leaves 500g,Packaged Staples,103.0,116.0,646.0,10,270,12,SUP02,A
+SKU010,Poha 500g,Packaged Staples,40.0,45.0,612.0,9,270,12,SUP01,B
+SKU011,Besan 1kg,Packaged Staples,110.0,122.0,843.0,7,270,12,SUP03,A
+SKU012,Rajma 1kg,Packaged Staples,45.0,50.0,738.0,9,270,12,SUP01,B
+SKU013,Jaggery 1kg,Packaged Staples,125.0,140.0,765.0,8,270,12,SUP03,A
+SKU014,Ghee 500ml,Packaged Staples,240.0,270.0,396.0,5,270,12,SUP03,A
+SKU015,Suji 1kg,Packaged Staples,42.0,47.0,469.0,5,270,12,SUP03,C
+SKU016,Cola 750ml,Beverages,41.0,47.0,410.0,8,180,24,SUP05,C
+SKU017,Lemon Soda 600ml,Beverages,42.0,50.0,851.0,6,180,24,SUP06,B
+SKU018,Mango Drink 1L,Beverages,101.0,117.0,1154.0,5,180,24,SUP06,A
+SKU019,Packaged Water 1L,Beverages,57.0,68.0,837.0,7,180,24,SUP06,A
+SKU020,Energy Drink 250ml,Beverages,24.0,28.0,1051.0,6,180,24,SUP04,B
+SKU021,Fruit Juice 1L,Beverages,54.0,63.0,1013.0,5,180,24,SUP04,A
+SKU022,Iced Tea 500ml,Beverages,53.0,64.0,903.0,8,180,24,SUP04,A
+SKU023,Coconut Water 200ml,Beverages,59.0,69.0,935.0,8,180,24,SUP04,A
+SKU024,Instant Coffee 100g,Beverages,27.0,31.0,467.0,8,180,24,SUP05,C
+SKU025,Tea Bags 100pk,Beverages,24.0,28.0,928.0,8,180,24,SUP06,C
+SKU026,Buttermilk 200ml,Beverages,31.0,36.0,651.0,4,180,24,SUP04,B
+SKU027,Lassi 200ml,Beverages,60.0,72.0,778.0,5,180,24,SUP05,A
+SKU028,Sports Drink 500ml,Beverages,110.0,131.0,996.0,6,180,24,SUP06,A
+SKU029,Tonic Water 300ml,Beverages,23.0,27.0,974.0,8,180,24,SUP06,B
+SKU030,Malt Drink 500g,Beverages,31.0,37.0,884.0,6,180,24,SUP05,C
+SKU031,Potato Chips 90g,Snacks & Confectionery,13.0,16.0,974.0,6,120,12,SUP07,C
+SKU032,Namkeen Mix 400g,Snacks & Confectionery,14.0,17.0,371.0,8,120,12,SUP07,C
+SKU033,Glucose Biscuits 300g,Snacks & Confectionery,119.0,144.0,710.0,6,120,12,SUP07,A
+SKU034,Cream Biscuits 120g,Snacks & Confectionery,61.0,73.0,853.0,6,120,12,SUP08,B
+SKU035,Chocolate Bar 40g,Snacks & Confectionery,16.0,20.0,688.0,6,120,12,SUP08,C
+SKU036,Instant Noodles 70g,Snacks & Confectionery,19.0,24.0,556.0,5,120,12,SUP07,C
+SKU037,Popcorn 60g,Snacks & Confectionery,137.0,163.0,384.0,8,120,12,SUP08,A
+SKU038,Peanut Chikki 200g,Snacks & Confectionery,18.0,22.0,697.0,8,120,12,SUP09,C
+SKU039,Cookies 200g,Snacks & Confectionery,126.0,150.0,897.0,6,120,12,SUP07,A
+SKU040,Wafers 75g,Snacks & Confectionery,90.0,109.0,802.0,5,120,12,SUP09,A
+SKU041,Mathri 250g,Snacks & Confectionery,100.0,125.0,493.0,9,120,12,SUP08,A
+SKU042,Dry Fruit Mix 250g,Snacks & Confectionery,74.0,88.0,764.0,7,120,12,SUP07,A
+SKU043,Soan Papdi 500g,Snacks & Confectionery,15.0,18.0,623.0,8,120,12,SUP08,C
+SKU044,Rusk 300g,Snacks & Confectionery,57.0,70.0,934.0,7,120,12,SUP07,A
+SKU045,Candy Pack 150g,Snacks & Confectionery,22.0,27.0,842.0,8,120,12,SUP08,C
+SKU046,Shampoo 340ml,Personal Care,51.0,67.0,420.0,12,540,12,SUP12,C
+SKU047,Soap 4-pack,Personal Care,37.0,47.0,463.0,8,540,12,SUP12,C
+SKU048,Toothpaste 150g,Personal Care,51.0,67.0,242.0,12,540,12,SUP11,C
+SKU049,Face Wash 100ml,Personal Care,32.0,41.0,245.0,10,540,12,SUP12,C
+SKU050,Body Lotion 400ml,Personal Care,138.0,175.0,300.0,11,540,12,SUP11,B
+SKU051,Hair Oil 200ml,Personal Care,156.0,203.0,297.0,10,540,12,SUP10,B
+SKU052,Deodorant 150ml,Personal Care,133.0,179.0,344.0,9,540,12,SUP12,B
+SKU053,Sanitary Pads 20pk,Personal Care,31.0,39.0,453.0,11,540,12,SUP11,C
+SKU054,Razor 5pk,Personal Care,106.0,137.0,253.0,12,540,12,SUP12,B
+SKU055,Talc 300g,Personal Care,77.0,100.0,422.0,7,540,12,SUP12,B
+SKU056,Sunscreen 50g,Personal Care,393.0,510.0,198.0,9,540,12,SUP10,A
+SKU057,Hand Wash 250ml,Personal Care,108.0,136.0,191.0,8,540,12,SUP10,C
+SKU058,Kajal Pack,Personal Care,392.0,498.0,189.0,7,540,12,SUP12,A
+SKU059,Lip Balm,Personal Care,150.0,198.0,274.0,7,540,12,SUP12,B
+SKU060,Mouthwash 250ml,Personal Care,376.0,491.0,495.0,13,540,12,SUP11,A
+SKU061,Detergent Powder 2kg,Home Care,104.0,132.0,343.0,11,720,12,SUP13,B
+SKU062,Dishwash Liquid 750ml,Home Care,122.0,148.0,413.0,7,720,12,SUP14,A
+SKU063,Floor Cleaner 1L,Home Care,44.0,56.0,450.0,11,720,12,SUP14,C
+SKU064,Toilet Cleaner 500ml,Home Care,102.0,128.0,153.0,10,720,12,SUP13,C
+SKU065,Glass Cleaner 500ml,Home Care,82.0,102.0,377.0,12,720,12,SUP13,B
+SKU066,Fabric Softener 1L,Home Care,51.0,65.0,416.0,12,720,12,SUP14,B
+SKU067,Mosquito Coil 10pk,Home Care,200.0,257.0,307.0,11,720,12,SUP14,A
+SKU068,Air Freshener 250ml,Home Care,99.0,123.0,423.0,8,720,12,SUP13,A
+SKU069,Garbage Bags 30pk,Home Care,202.0,252.0,184.0,8,720,12,SUP13,B
+SKU070,Scrub Pad 3pk,Home Care,121.0,153.0,373.0,9,720,12,SUP13,A
+SKU071,Bleach 500ml,Home Care,41.0,51.0,207.0,8,720,12,SUP13,C
+SKU072,Phenyl 1L,Home Care,137.0,170.0,288.0,7,720,12,SUP13,B
+SKU073,Agarbatti 100pk,Home Care,59.0,75.0,304.0,9,720,12,SUP14,C
+SKU074,Matchbox 10pk,Home Care,257.0,315.0,270.0,11,720,12,SUP14,A
+SKU075,Naphthalene Balls 200g,Home Care,49.0,60.0,402.0,11,720,12,SUP14,C
+SKU076,USB-C Cable 1m,Electronics Accessories,441.0,572.0,102.0,15,0,10,SUP17,A
+SKU077,Fast Charger 25W,Electronics Accessories,364.0,465.0,147.0,20,0,10,SUP17,B
+SKU078,Power Bank 10000mAh,Electronics Accessories,359.0,471.0,88.0,23,0,10,SUP17,B
+SKU079,Wired Earphones,Electronics Accessories,1110.0,1412.0,139.0,30,0,10,SUP16,A
+SKU080,TWS Earbuds,Electronics Accessories,2238.0,2947.0,148.0,21,0,10,SUP17,A
+SKU081,Bluetooth Speaker,Electronics Accessories,227.0,293.0,129.0,27,0,10,SUP16,B
+SKU082,Phone Case,Electronics Accessories,665.0,835.0,59.0,24,0,10,SUP17,B
+SKU083,Screen Guard,Electronics Accessories,229.0,298.0,49.0,25,0,10,SUP16,C
+SKU084,LED Bulb 9W,Electronics Accessories,160.0,207.0,75.0,19,0,10,SUP16,C
+SKU085,Extension Board 4-socket,Electronics Accessories,336.0,431.0,119.0,18,0,10,SUP15,B
+SKU086,AA Batteries 10pk,Electronics Accessories,1335.0,1740.0,153.0,23,0,10,SUP16,A
+SKU087,SD Card 64GB,Electronics Accessories,1750.0,2180.0,159.0,21,0,10,SUP15,A
+SKU088,Wireless Mouse,Electronics Accessories,429.0,534.0,140.0,20,0,10,SUP16,A
+SKU089,USB Keyboard,Electronics Accessories,2249.0,2812.0,147.0,17,0,10,SUP16,A
+SKU090,HDMI Cable 2m,Electronics Accessories,292.0,378.0,44.0,16,0,10,SUP16,C
+SKU091,Paracetamol 500mg 15s,OTC Pharma & Wellness,113.0,144.0,176.0,13,365,12,SUP18,C
+SKU092,ORS Sachets 10pk,OTC Pharma & Wellness,55.0,75.0,212.0,15,365,12,SUP18,C
+SKU093,Antacid Syrup 200ml,OTC Pharma & Wellness,277.0,362.0,212.0,18,365,12,SUP19,A
+SKU094,Cough Syrup 100ml,OTC Pharma & Wellness,190.0,254.0,142.0,13,365,12,SUP20,B
+SKU095,Multivitamin 30s,OTC Pharma & Wellness,178.0,237.0,128.0,15,365,12,SUP18,B
+SKU096,Antiseptic Liquid 250ml,OTC Pharma & Wellness,88.0,112.0,92.0,13,365,12,SUP19,C
+SKU097,Pain Balm 50g,OTC Pharma & Wellness,68.0,91.0,96.0,13,365,12,SUP20,C
+SKU098,Bandage Pack,OTC Pharma & Wellness,49.0,66.0,279.0,13,365,12,SUP20,C
+SKU099,Digital Thermometer,OTC Pharma & Wellness,88.0,112.0,247.0,18,365,12,SUP19,B
+SKU100,Glucose Powder 500g,OTC Pharma & Wellness,32.0,42.0,81.0,10,365,12,SUP19,C
+SKU101,Vitamin C 30s,OTC Pharma & Wellness,176.0,237.0,144.0,18,365,12,SUP18,B
+SKU102,Eye Drops 10ml,OTC Pharma & Wellness,72.0,92.0,285.0,11,365,12,SUP20,C
+SKU103,Zinc Tablets 20s,OTC Pharma & Wellness,169.0,216.0,98.0,10,365,12,SUP20,C
+SKU104,Hand Sanitizer 500ml,OTC Pharma & Wellness,37.0,48.0,253.0,10,365,12,SUP18,C
+SKU105,Face Masks 50pk,OTC Pharma & Wellness,92.0,121.0,234.0,14,365,12,SUP19,C
+SKU106,Corrugated Box 12x12,Packaging & Supplies,400.0,480.0,115.0,20,0,20,SUP21,B
+SKU107,Stretch Film 500mm,Packaging & Supplies,324.0,383.0,176.0,10,0,20,SUP22,A
+SKU108,BOPP Tape 48mm,Packaging & Supplies,699.0,822.0,99.0,13,0,20,SUP22,A
+SKU109,Bubble Wrap Roll,Packaging & Supplies,68.0,80.0,230.0,21,0,20,SUP22,C
+SKU110,Pallet Strapping Roll,Packaging & Supplies,45.0,53.0,220.0,15,0,20,SUP22,C
+SKU111,Shipping Labels 1000,Packaging & Supplies,617.0,741.0,104.0,20,0,20,SUP21,A
+SKU112,Poly Mailer 100pk,Packaging & Supplies,93.0,113.0,61.0,11,0,20,SUP21,C
+SKU113,Void Fill Paper,Packaging & Supplies,89.0,108.0,97.0,18,0,20,SUP22,C
+SKU114,Cable Ties 100pk,Packaging & Supplies,66.0,80.0,217.0,21,0,20,SUP22,C
+SKU115,Edge Protectors 50pk,Packaging & Supplies,52.0,63.0,104.0,12,0,20,SUP21,C
+SKU116,Pallet Wrap Hand,Packaging & Supplies,39.0,47.0,74.0,10,0,20,SUP22,C
+SKU117,Courier Bags 100pk,Packaging & Supplies,21.0,25.0,219.0,10,0,20,SUP21,C
+SKU118,Thermal Paper Roll 20pk,Packaging & Supplies,181.0,218.0,204.0,20,0,20,SUP22,B
+SKU119,Safety Gloves 12pk,Packaging & Supplies,420.0,511.0,171.0,12,0,20,SUP21,A
+SKU120,Cutter Blades 10pk,Packaging & Supplies,30.0,35.0,226.0,18,0,20,SUP21,C

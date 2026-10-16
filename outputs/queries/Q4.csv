@@ -1,0 +1,41 @@
+category,region,fill_rate_pct,lost_revenue_inr
+Beverages,Central,99.25,282555.0
+Beverages,East,95.02,7964062.0
+Beverages,North,99.36,1361952.0
+Beverages,South,96.45,14311366.0
+Beverages,West,99.31,2947463.0
+Electronics Accessories,Central,93.32,8485263.0
+Electronics Accessories,East,87.92,46524098.0
+Electronics Accessories,North,96.86,13304892.0
+Electronics Accessories,South,87.6,93902518.0
+Electronics Accessories,West,96.89,29879119.0
+Home Care,Central,98.82,642714.0
+Home Care,East,94.73,6940775.0
+Home Care,North,99.41,1018867.0
+Home Care,South,94.76,19921414.0
+Home Care,West,99.74,716420.0
+OTC Pharma & Wellness,Central,96.47,1053681.0
+OTC Pharma & Wellness,East,93.21,4030535.0
+OTC Pharma & Wellness,North,97.97,2524144.0
+OTC Pharma & Wellness,South,91.05,13593548.0
+OTC Pharma & Wellness,West,98.34,3105110.0
+Packaged Staples,Central,98.39,1959247.0
+Packaged Staples,East,94.03,11943212.0
+Packaged Staples,North,99.37,2805399.0
+Packaged Staples,South,95.77,17789065.0
+Packaged Staples,West,99.58,2161968.0
+Packaging & Supplies,Central,96.12,1273743.0
+Packaging & Supplies,East,90.27,8172956.0
+Packaging & Supplies,North,98.62,2733192.0
+Packaging & Supplies,South,91.23,17790591.0
+Packaging & Supplies,West,98.5,3251686.0
+Personal Care,Central,97.93,422661.0
+Personal Care,East,90.77,11550556.0
+Personal Care,North,97.64,4580059.0
+Personal Care,South,93.04,20879258.0
+Personal Care,West,97.99,4001475.0
+Snacks & Confectionery,Central,99.75,93629.0
+Snacks & Confectionery,East,97.18,3058863.0
+Snacks & Confectionery,North,99.7,478214.0
+Snacks & Confectionery,South,97.87,6378705.0
+Snacks & Confectionery,West,99.39,2233409.0

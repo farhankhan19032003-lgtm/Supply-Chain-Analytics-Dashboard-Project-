@@ -1,0 +1,27 @@
+Validation report | as-of 2026-10-04 | 23 checks
+
+[PASS] Fill rate per warehouse equals independent calc
+[PASS] Lost revenue per warehouse equals independent calc
+      network fill rate = 97.25%  | total lost revenue = INR 39.61 Cr
+[PASS] Deficit-alert rows == STOCKOUT+CRITICAL+LOW rows  (sql=398 pandas=398)
+[PASS] Per-status counts match  ({'STOCKOUT': 124, 'CRITICAL': 58, 'LOW': 216, 'EXCESS': 120, 'HEALTHY': 922})
+[PASS] Pipeline-delay alert count equals open POs >= warn days overdue  (sql=71 pandas=71)
+[PASS] Critical pipeline alerts match
+      open POs = 652; overdue (>0 d) = 109; value overdue >= warn = INR 244.4 lakh
+[PASS] RCA event count == weeks with lost sales  (9178)
+[PASS] RCA cause summary sums to total lost revenue  (396,068,384)
+[PASS] RCA cause shares sum to ~100%
+[PASS] f_policy_gap flag identical to independent calc on all events
+[PASS] f_spike flag identical to independent calc on all events
+[PASS] f_late_po / f_short_ship flags match brute force (1,500-event sample)  (mismatches=0)
+[PASS] No donor is asked for more than its surplus  (84 donor-SKU pairs)
+[PASS] Donor is always an EXCESS row, receiver always deficit
+[PASS] No transfer lines to self
+      transfers = 236 lines, 137,324 units, net benefit INR 44.7 lakh (indicative)
+[PASS] Excess inventory value equals independent calc  (13,234,928)
+[PASS] Above-target-cover value equals independent calc  (70,715,485)
+[PASS] Supplier on-time % equals independent calc
+[PASS] Asset idle cost per warehouse equals independent calc
+[PASS] alert_log = deficits + pipeline + capacity  (471 = 398 + 71 + 2)
+
+RESULT: ALL CHECKS PASSED

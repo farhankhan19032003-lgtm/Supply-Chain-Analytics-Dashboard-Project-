@@ -1,0 +1,20 @@
+param,param_value,description
+critical_cover_weeks,0.5,Closing stock below this many weeks of demand = CRITICAL
+low_cover_weeks,1.5,Below this = LOW (deficit risk)
+excess_cover_weeks,8.0,Above this = EXCESS
+obsolete_cover_weeks,20.0,Cover above this many weeks = slow-moving / obsolescence risk
+expiry_cover_share,0.5,Cover (days) above this share of shelf life = expiry risk
+holding_cost_pct_annual,0.22,Annual inventory carrying cost as a fraction of stock value
+overdue_warn_days,3.0,Open PO this many days past promise = WARNING
+overdue_critical_days,7.0,Open PO this many days past promise = CRITICAL
+operator_idle_share,0.25,Share of operator cost wasted while an asset sits idle
+asset_idle_flag_pct,0.4,Idle hours / scheduled hours above this = over-provisioned
+asset_downtime_flag_pct,0.07,Downtime hours / scheduled hours above this = reliability problem
+asset_overstretch_util,0.9,Run hours / scheduled hours above this = under-provisioned
+asset_target_util,0.7,Target run-hour utilisation used to size the fleet
+rebalance_keep_weeks,4.0,Donor warehouses keep this many weeks of cover when transferring out
+rebalance_target_weeks,3.0,Receiving warehouses are topped up to this many weeks of cover
+transfer_cost_same_region_per_unit,2.5,"Indicative freight INR/unit, same region"
+transfer_cost_cross_region_per_unit,6.0,"Indicative freight INR/unit, cross region"
+capacity_warn_util,0.8,Warehouse storage utilisation warning level
+capacity_critical_util,0.9,Warehouse storage utilisation critical level

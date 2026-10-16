@@ -1,0 +1,4 @@
+supplier_tier,pos,avg_promised_lead_days,avg_actual_lead_days,on_time_pct
+Tier 1,11031,13.2,13.8,83.5
+Tier 2,13917,13.1,14.4,73.4
+Tier 3,6391,15.2,19.8,46.3
